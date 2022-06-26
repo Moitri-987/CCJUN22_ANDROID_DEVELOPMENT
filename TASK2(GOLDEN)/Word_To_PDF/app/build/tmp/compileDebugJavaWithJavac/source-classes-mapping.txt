@@ -1,0 +1,166 @@
+com/project/wordtopdf/pdfModel/PDFFile.java
+ com.project.wordtopdf.pdfModel.PDFFile
+com/project/wordtopdf/util/PopulateBottomSheetList.java
+ com.project.wordtopdf.util.PopulateBottomSheetList
+com/project/wordtopdf/util/TextFileReader.java
+ com.project.wordtopdf.util.TextFileReader
+com/project/wordtopdf/interfaces/BottomSheetPopulate.java
+ com.project.wordtopdf.interfaces.BottomSheetPopulate
+com/project/wordtopdf/db/AppDatabase.java
+ com.project.wordtopdf.db.AppDatabase
+com/project/wordtopdf/util/lambda/Consumer.java
+ com.project.wordtopdf.util.lambda.Consumer
+com/project/wordtopdf/util/FileUtils.java
+ com.project.wordtopdf.util.FileUtils
+ com.project.wordtopdf.util.FileUtils$FileType
+com/project/wordtopdf/pdfModel/Watermark.java
+ com.project.wordtopdf.pdfModel.Watermark
+com/project/wordtopdf/util/DirectoryUtils.java
+ com.project.wordtopdf.util.DirectoryUtils
+com/project/wordtopdf/util/BottomSheetUtils.java
+ com.project.wordtopdf.util.BottomSheetUtils
+com/project/wordtopdf/activities/SplashActivity.java
+ com.project.wordtopdf.activities.SplashActivity
+ com.project.wordtopdf.activities.SplashActivity$1
+com/project/wordtopdf/interfaces/DataSetChanged.java
+ com.project.wordtopdf.interfaces.DataSetChanged
+com/project/wordtopdf/custom/MyCardView.java
+ com.project.wordtopdf.custom.MyCardView
+com/project/wordtopdf/db/HistoryDao.java
+ com.project.wordtopdf.db.HistoryDao
+com/project/wordtopdf/util/PermissionsUtils.java
+ com.project.wordtopdf.util.PermissionsUtils
+ com.project.wordtopdf.util.PermissionsUtils$SingletonHolder
+com/project/wordtopdf/util/TextToPdfAsync.java
+ com.project.wordtopdf.util.TextToPdfAsync
+com/project/wordtopdf/fragment/texttopdf/TextToPdfContract.java
+ com.project.wordtopdf.fragment.texttopdf.TextToPdfContract
+ com.project.wordtopdf.fragment.texttopdf.TextToPdfContract$View
+com/project/wordtopdf/adapter/AdapterViewFiles.java
+ com.project.wordtopdf.adapter.AdapterViewFiles
+ com.project.wordtopdf.adapter.AdapterViewFiles$1
+ com.project.wordtopdf.adapter.AdapterViewFiles$ViewFilesHolder
+com/project/wordtopdf/util/PrintDocumentAdapterHelper.java
+ com.project.wordtopdf.util.PrintDocumentAdapterHelper
+com/project/wordtopdf/interfaces/OnPDFCreatedInterface.java
+ com.project.wordtopdf.interfaces.OnPDFCreatedInterface
+com/project/wordtopdf/util/CommonCodeUtils.java
+ com.project.wordtopdf.util.CommonCodeUtils
+ com.project.wordtopdf.util.CommonCodeUtils$SingletonHolder
+com/project/wordtopdf/pdfPreferences/TextToPdfPreferences.java
+ com.project.wordtopdf.pdfPreferences.TextToPdfPreferences
+com/project/wordtopdf/util/FileUriUtils.java
+ com.project.wordtopdf.util.FileUriUtils
+ com.project.wordtopdf.util.FileUriUtils$1
+ com.project.wordtopdf.util.FileUriUtils$SingletonHolder
+com/project/wordtopdf/util/ViewFilesDividerItemDecoration.java
+ com.project.wordtopdf.util.ViewFilesDividerItemDecoration
+com/project/wordtopdf/util/SharedPreferencesUtil.java
+ com.project.wordtopdf.util.SharedPreferencesUtil
+ com.project.wordtopdf.util.SharedPreferencesUtil$1
+ com.project.wordtopdf.util.SharedPreferencesUtil$SingletonHolder
+com/project/wordtopdf/interfaces/OnTextToPdfInterface.java
+ com.project.wordtopdf.interfaces.OnTextToPdfInterface
+com/project/wordtopdf/adapter/AdapterMergeFiles.java
+ com.project.wordtopdf.adapter.AdapterMergeFiles
+ com.project.wordtopdf.adapter.AdapterMergeFiles$OnClickListener
+ com.project.wordtopdf.adapter.AdapterMergeFiles$ViewMergeFilesHolder
+com/project/wordtopdf/util/FileReader.java
+ com.project.wordtopdf.util.FileReader
+com/project/wordtopdf/fragment/texttopdf/TextToPdfFragment.java
+ com.project.wordtopdf.fragment.texttopdf.TextToPdfFragment
+ com.project.wordtopdf.fragment.texttopdf.TextToPdfFragment$1
+wordtopdf/BuildConfig.java
+ wordtopdf.BuildConfig
+com/project/wordtopdf/util/FileInfoUtils.java
+ com.project.wordtopdf.util.FileInfoUtils
+com/project/wordtopdf/activities/HomeActivity.java
+ com.project.wordtopdf.activities.HomeActivity
+com/project/wordtopdf/interfaces/EmptyStateChangeListener.java
+ com.project.wordtopdf.interfaces.EmptyStateChangeListener
+com/project/wordtopdf/util/PopulateList.java
+ com.project.wordtopdf.util.PopulateList
+com/project/wordtopdf/activities/AboutActivity.java
+ com.project.wordtopdf.activities.AboutActivity
+com/project/wordtopdf/pdfModel/EnhancementOptionsEntity.java
+ com.project.wordtopdf.pdfModel.EnhancementOptionsEntity
+com/project/wordtopdf/adapter/AdapterHistory.java
+ com.project.wordtopdf.adapter.AdapterHistory
+ com.project.wordtopdf.adapter.AdapterHistory$OnClickListener
+ com.project.wordtopdf.adapter.AdapterHistory$ViewHistoryHolder
+com/project/wordtopdf/util/FileSortUtils.java
+ com.project.wordtopdf.util.FileSortUtils
+ com.project.wordtopdf.util.FileSortUtils$1
+ com.project.wordtopdf.util.FileSortUtils$SingletonHolder
+com/project/wordtopdf/interfaces/ItemSelectedListener.java
+ com.project.wordtopdf.interfaces.ItemSelectedListener
+com/project/wordtopdf/activities/SecondActivity.java
+ com.project.wordtopdf.activities.SecondActivity
+com/project/wordtopdf/util/ThemeUtils.java
+ com.project.wordtopdf.util.ThemeUtils
+ com.project.wordtopdf.util.ThemeUtils$SingletonHolder
+com/project/wordtopdf/db/DatabaseHelper.java
+ com.project.wordtopdf.db.DatabaseHelper
+ com.project.wordtopdf.db.DatabaseHelper$1
+ com.project.wordtopdf.db.DatabaseHelper$Insert
+com/project/wordtopdf/util/TextToPDFUtils.java
+ com.project.wordtopdf.util.TextToPDFUtils
+com/project/wordtopdf/util/PDFUtils.java
+ com.project.wordtopdf.util.PDFUtils
+ com.project.wordtopdf.util.PDFUtils$CompressPdfAsync
+ com.project.wordtopdf.util.PDFUtils$ReorderPdfPagesAsync
+com/project/wordtopdf/util/PopulateBottomSheetListWithExcelFiles.java
+ com.project.wordtopdf.util.PopulateBottomSheetListWithExcelFiles
+com/project/wordtopdf/fragment/AddTextFragment.java
+ com.project.wordtopdf.fragment.AddTextFragment
+com/project/wordtopdf/adapter/AdapterEnhancementOptions.java
+ com.project.wordtopdf.adapter.AdapterEnhancementOptions
+ com.project.wordtopdf.adapter.AdapterEnhancementOptions$EnhancementOptionsViewHolder
+com/project/wordtopdf/util/MorphButtonUtility.java
+ com.project.wordtopdf.util.MorphButtonUtility
+com/project/wordtopdf/pdfModel/PDFOptions.java
+ com.project.wordtopdf.pdfModel.PDFOptions
+com/project/wordtopdf/util/BottomSheetCallback.java
+ com.project.wordtopdf.util.BottomSheetCallback
+com/project/wordtopdf/fragment/ViewFilesFragment.java
+ com.project.wordtopdf.fragment.ViewFilesFragment
+ com.project.wordtopdf.fragment.ViewFilesFragment$1
+ com.project.wordtopdf.fragment.ViewFilesFragment$2
+com/project/wordtopdf/adapter/AdapterExtractImages.java
+ com.project.wordtopdf.adapter.AdapterExtractImages
+ com.project.wordtopdf.adapter.AdapterExtractImages$OnFileItemClickedListener
+ com.project.wordtopdf.adapter.AdapterExtractImages$ViewMergeFilesHolder
+com/project/wordtopdf/interfaces/Enhancer.java
+ com.project.wordtopdf.interfaces.Enhancer
+com/project/wordtopdf/util/RealPathUtil.java
+ com.project.wordtopdf.util.RealPathUtil
+ com.project.wordtopdf.util.RealPathUtil$SingletonHolder
+com/project/wordtopdf/pdfModel/TextToPDFOptions.java
+ com.project.wordtopdf.pdfModel.TextToPDFOptions
+ com.project.wordtopdf.pdfModel.TextToPDFOptions$Builder
+com/project/wordtopdf/interfaces/OnItemClickListener.java
+ com.project.wordtopdf.interfaces.OnItemClickListener
+com/project/wordtopdf/fragment/HistoryFragment.java
+ com.project.wordtopdf.fragment.HistoryFragment
+ com.project.wordtopdf.fragment.HistoryFragment$1
+ com.project.wordtopdf.fragment.HistoryFragment$DeleteHistory
+ com.project.wordtopdf.fragment.HistoryFragment$LoadHistory
+com/project/wordtopdf/fragment/texttopdf/Enhancers.java
+ com.project.wordtopdf.fragment.texttopdf.Enhancers
+ com.project.wordtopdf.fragment.texttopdf.Enhancers$1
+com/project/wordtopdf/Constants.java
+ com.project.wordtopdf.Constants
+com/project/wordtopdf/db/History.java
+ com.project.wordtopdf.db.History
+com/project/wordtopdf/fragment/texttopdf/FontFamilyEnhancer.java
+ com.project.wordtopdf.fragment.texttopdf.FontFamilyEnhancer
+com/project/wordtopdf/util/DialogUtils.java
+ com.project.wordtopdf.util.DialogUtils
+ com.project.wordtopdf.util.DialogUtils$1
+ com.project.wordtopdf.util.DialogUtils$SingletonHolder
+com/project/wordtopdf/util/StringUtils.java
+ com.project.wordtopdf.util.StringUtils
+ com.project.wordtopdf.util.StringUtils$1
+ com.project.wordtopdf.util.StringUtils$SingletonHolder
+com/project/wordtopdf/interfaces/OnPDFCompressedInterface.java
+ com.project.wordtopdf.interfaces.OnPDFCompressedInterface

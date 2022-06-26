@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_view_files_actions.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\menu\\activity_view_files_actions.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_view.png.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\drawable\\ic_view.png"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_b.ttf.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\font\\roboto_b.ttf"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_view_files_actions_if_selected.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\menu\\activity_view_files_actions_if_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\font_adamina.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\font\\adamina.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_item_history.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\layout\\layout_item_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_history_fragment.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\menu\\menu_history_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_vignette.png.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\drawable-hdpi\\vignette.png"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_bg.png.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\drawable\\shape_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_light.ttf.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\font\\roboto_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\drawable_select_img.png.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\drawable\\select_img.png"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_merge_files.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\layout\\item_merge_files.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_add_text.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\layout\\fragment_add_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\drawable_header_image.jpg.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\drawable\\header_image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\xml_backup_descriptor.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\xml\\backup_descriptor.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\xml_favourites_preferences.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\xml\\favourites_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\xml_provider_paths.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_merge_selected_files.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\layout\\item_merge_selected_files.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_delete_24.png.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\drawable\\baseline_delete_24.png"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\layout_lottie_anim_dialog.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\layout\\lottie_anim_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gr_white_tr.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\drawable\\gr_white_tr.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_merge_type_white_24dp.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\drawable\\ic_merge_type_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sort.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\drawable\\ic_sort.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_text_to_pdf.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\layout\\fragment_text_to_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\raw_search_file_light.json.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\raw\\search_file_light.json"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_image_pdf.png.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\drawable\\ic_image_pdf.png"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\drawable_files_divider.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\drawable\\files_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_zip_to_pdf.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\drawable\\ic_zip_to_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_view_enhancement_option.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\layout\\item_view_enhancement_option.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_vignette.png.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\drawable-xxxhdpi\\vignette.png"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gr_img_pdf.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\drawable\\gr_img_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_create_black_24dp.png.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\drawable\\ic_create_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_vignette.webp.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\drawable-xxhdpi\\vignette.webp"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\layout_pdf_preview_item.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\layout\\pdf_preview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_second.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\raw_splash.json.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\raw\\splash.json"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\layout_set_page_size_dialog.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\layout\\set_page_size_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_check_white_24dp.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\drawable\\ic_check_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_done_24.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\drawable\\baseline_done_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\raw_search_file_dark.json.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\raw\\search_file_dark.json"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_share_24.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\drawable\\baseline_share_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_font_black_24dp.png.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\drawable\\ic_font_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_font_family.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\layout\\dialog_font_family.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_delete_white_24dp.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\drawable\\ic_delete_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_file.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\layout\\item_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\drawable_create_img.png.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\drawable\\create_img.png"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_view_files.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\layout\\fragment_view_files.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_font_family_24dp.png.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\drawable\\ic_font_family_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\raw_no_permissions.json.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\raw\\no_permissions.json"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_text_pdf.png.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\drawable\\ic_text_pdf.png"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_rearrange_images.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\layout\\item_rearrange_images.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\layout_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\layout\\bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\raw_image_icon_tadah.json.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\raw\\image_icon_tadah.json"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_down_black_24dp.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\drawable\\ic_arrow_down_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_check_box_outline_blank_24dp.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\drawable\\ic_check_box_outline_blank_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_filter_list.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\drawable-anydpi\\ic_filter_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_reg.ttf.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\font\\roboto_reg.ttf"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pdfimage.png.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\drawable\\pdfimage.png"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_history.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_image_extracted.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\layout\\item_image_extracted.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.jpg.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\drawable\\icon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_up_black_24dp.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\drawable\\ic_arrow_up_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_check_box_24dp.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\drawable\\ic_check_box_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sort_white_24px.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\drawable\\ic_sort_white_24px.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_preview_image_options.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\layout\\item_preview_image_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_circle_white.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\drawable-hdpi\\circle_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search_white_24dp.xml.flat",
+        "source": "C:\\Users\\prase\\Desktop\\CCJUN22_ANDROID_DEVELOPMENT\\TASK2(GOLDEN)\\Word_To_PDF\\app\\src\\main\\res\\drawable\\ic_search_white_24dp.xml"
+    }
+]
